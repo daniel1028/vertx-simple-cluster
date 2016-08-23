@@ -28,5 +28,7 @@ Note that any options that need to be passed onto Vertx instance need to be pass
 # Example API to test this application 
 
 Type : POST
+
 End Point : http://localhost:8080/api/alpha/v1/demo/nothing
+
 Request Body: {"key":"value"}

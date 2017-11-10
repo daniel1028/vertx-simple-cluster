@@ -1,1 +1,1 @@
-This is Daniel. New test
+This is Daniel
